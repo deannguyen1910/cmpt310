@@ -3,7 +3,7 @@
 
 # BFS 
 * 1 < s < m
-* O(b^s)
+* O($\ b^s $)
 
 # Iterative Deepening
 * get DPF's space advantage with BFS's time / shallow-solution advantages.
