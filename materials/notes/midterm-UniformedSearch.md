@@ -15,4 +15,4 @@
 * Strategy: expand a cheapest node first
 * Processes all nodes with cost less than cheapest solution! b
 * If that solution costs $\ C*$ and arcs cost at least e, then the “effective depth” is roughly $\ C*/e$
-* Takes time $\ O(b^(C*/e))$ (exponential in effective depth)
+* Takes time O($\ b^(C*/e)$) (exponential in effective depth)
