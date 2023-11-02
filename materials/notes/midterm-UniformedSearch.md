@@ -15,7 +15,7 @@
     * Run a DFS with depth limit 3. .....
 
 # Uniform Cost Search
-![](/materials/images/UCS-uniformedSearchSearch.png)
+![](/materials/images/UCS-uniformedSearchSearch.png =x200)
 * Strategy: expand a cheapest node first
 * Processes all nodes with cost less than cheapest solution! b
 * If that solution costs $\ C*$ and arcs cost at least e, then the “effective depth” is roughly $\ C*/e$
