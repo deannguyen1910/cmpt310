@@ -11,4 +11,5 @@
 # Alpha-Beta 
 * Same as a minimax but eliminate unnecessary sub-tree. 
 * Alpha is for MAX level (save maximum level) - Beta is for MIN (save minimum value)
+
                     ![](../images/alphabeta.png)
