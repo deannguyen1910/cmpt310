@@ -12,6 +12,7 @@
     * Constraint Graph
     * Speed up Methods
     * Local Search
+    
 * Adversial Search
     * Minimax Tree
     * Alpha Beta Pruning
