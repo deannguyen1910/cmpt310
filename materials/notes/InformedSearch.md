@@ -13,8 +13,8 @@
 
 # Admissible Heuristics
 * A heuristic h is admissible (optimistic) if:
- ```$
-    0 <= h(n) <= h*(n)
- ```       
+    0 <= h(n) <= h*(n)  
+where h*(n) is the true cost to a nearest goal
 
-
+* Example: 
+![](/materials/images/admissibleExample.png)
