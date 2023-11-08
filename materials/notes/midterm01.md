@@ -2,12 +2,12 @@
     * DFS
     * BFS
     * UCS
-    * [See more](./UniformedSearch.md)
+    * [Uninformed Search](./UniformedSearch.md)
 * Informed Search
     * A* and Heuristic Functions
     * Consistency
     * Admissibility
-    * [See more](./InformedSearch.md)
+    * [Informed Search](./InformedSearch.md)
 * CSP
     * Constraint Graph
     * Speed up Methods
@@ -16,7 +16,8 @@
 * Adversial Search
     * Minimax Tree
     * Alpha Beta Pruning
-    * [See more](./MultipleAgents.md)
+    * [Adversial Search](./MultipleAgents.md)
 
 * Markov Decision Processes (MDPs)
-    * [See more](./MarkovDecisionProcesses.md)
+    
+    * [Markov Decision Processes](./MarkovDecisionProcesses.md)
