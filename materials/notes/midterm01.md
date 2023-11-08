@@ -17,3 +17,6 @@
     * Minimax Tree
     * Alpha Beta Pruning
     * [See more](./MultipleAgents.md)
+
+* Markov Decision Processes (MDPs)
+    * [See more](./MarkovDecisionProcesses.md)
