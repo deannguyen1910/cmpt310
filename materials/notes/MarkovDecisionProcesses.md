@@ -8,8 +8,8 @@
 
         * a: action
         * s: state 
-
+![](../images/MDPs_equation.png)
 ## Example 1:
-![](../images/MDPs_equation.png){:height="150px"}
+![](../images/MDPs_carExample.png) |            |
 
 ## Example 2:
