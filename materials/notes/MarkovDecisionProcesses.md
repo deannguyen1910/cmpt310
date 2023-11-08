@@ -53,5 +53,8 @@
         * At Overheated
             * No action -> 0
         * ![](../images/MDPs_carExample2.png)
-
+        * 
+        * 
+        * Sum up,
+        * ![](../images/MDPs_carExample0-2.png)
 ## Example 2:
