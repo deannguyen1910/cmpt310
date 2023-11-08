@@ -10,6 +10,15 @@
         * s: state 
 ![](../images/MDPs_equation.png)
 ## Example 1:
-![](../images/MDPs_carExample.png)|_______|
+![](../images/MDPs_carExample.png)
+
+* Iteration 1
+    * Q*(Cool, fast)
+        0.5 (2 + 0) = 1
+        0.5 (2 + 0) = 1
+        Sum -> 2
+     
+    * 
+    * ![](../images/MDPs_carExample0.png)
 
 ## Example 2:
