@@ -11,16 +11,27 @@
 ![](../images/MDPs_equation.png)
 ## Example 1:
 ![](../images/MDPs_carExample.png)
-
+* Iteration 0 
+    * ![](../images/MDPs_carExample0.png)
 * Iteration 1
     * At Cool
-        * Q*(Cool, fast)
-            * 0.5 (2 + 0) = 1,  s' = Warm
-            * 0.5 (2 + 0) = 1,  s' = Cool
-            * Sum -> 2
         * Q*(Cool, slow)
-            * 1.0 (1 + 0) = 1   from Cool
-    * 
-    * ![](../images/MDPs_carExample0.png)
+            * 1.0 (1 + 0) = 1, s' = Cool
+        * Q*(Cool, fast)
+            * 0.5 (2 + 0) = 1, s' = Warm
+            * 0.5 (2 + 0) = 1, s' = Cool
+            * Sum -> 2
+        * --> 2, fast At Cool, V1 
+    * At Warm 
+        * Q*(Warm, Slow)
+            * 0.5 (1 + 0) = 0.5, s' = Warm
+            * 0.5 (1 + 0) = 0.5, s' = Cool
+            * Sum -> 1
+        * Q*(Warm, fast)
+            * 1.0 (-10 + 0) = -10, s' = Overheated
+        * --> 1, slow At Warm V1
+    * At Overheated
+        * No action -> 0
+    * ![](../images/MDPs_carExample1.png)
 
 ## Example 2:
