@@ -10,6 +10,6 @@
         * s: state 
 ![](../images/MDPs_equation.png)
 ## Example 1:
-![](../images/MDPs_carExample.png) |            |
+![](../images/MDPs_carExample.png)|_______|
 
 ## Example 2:
