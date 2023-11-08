@@ -13,11 +13,13 @@
 ![](../images/MDPs_carExample.png)
 
 * Iteration 1
-    * Q*(Cool, fast)
-        0.5 (2 + 0) = 1
-        0.5 (2 + 0) = 1
-        Sum -> 2
-     
+    * At Cool
+        * Q*(Cool, fast)
+            * 0.5 (2 + 0) = 1,  s' = Warm
+            * 0.5 (2 + 0) = 1,  s' = Cool
+            * Sum -> 2
+        * Q*(Cool, slow)
+            * 1.0 (1 + 0) = 1   from Cool
     * 
     * ![](../images/MDPs_carExample0.png)
 
