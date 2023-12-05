@@ -20,4 +20,4 @@
 
 * Markov Decision Processes (MDPs)
     
-    * [Markov Decision Processes](./MarkovDecisionProcesses.md)
+    * [Markov Decision Processes](./MarkovDecisionProcesses.md) 
